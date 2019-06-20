@@ -1,2 +1,2 @@
 # gitOnWindows
-Testing git on windows
+Testing git on windows.
